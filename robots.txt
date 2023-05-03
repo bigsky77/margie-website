@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bigsky77.github.io/margie-website/sitemap.xml
+Sitemap: https://margiejudd.net/sitemap.xml
