@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beautiful Rig
-description: Beautiful Rig is a short film exploring the world of small-town car shows.
+description: Beautiful Rig is a film exploring the world of small-town car shows.
 img: assets/img/car.png
 redirect: https://www.youtube.com/watch?v=7aC4FC-5U5c&list=PLdpmC2Q_p0zTnXGFJ0d88_vr6PvIhcTAY
 importance: 3
