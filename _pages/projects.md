@@ -2,9 +2,9 @@
 layout: page
 title: film
 permalink: /projects/
-description: A collection of short films shot in Montana.
+description: A collection of short films shot in the American West.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [work]
 horizontal: false
 ---

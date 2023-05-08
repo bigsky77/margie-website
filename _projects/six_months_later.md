@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Six Months Later
-description: Six Months Later is a lyrical short about a house fire.
+description: A lyrical short about a house fire.
 img: assets/img/six_months.png
-redirect: https://www.youtube.com/watch?v=7aC4FC-5U5c&list=PLdpmC2Q_p0zTnXGFJ0d88_vr6PvIhcTAY
+redirect: https://www.youtube.com/watch?v=9vXs9zpxS8A&list=PLdpmC2Q_p0zTnXGFJ0d88_vr6PvIhcTAY&index=3
 importance: 3
 category: work
 ---
