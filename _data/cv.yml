@@ -9,26 +9,17 @@
   contents:
     - title: Ph.D., English
       institution: University of Nevada, Reno
-      year: 2023
+      year: Expected 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Concentration 19th-Century American Literature
     - title: M.A., English,
       institution: University of Montana
       year: 2016
       description:
-        - Description 1.
-        - Description 2.
     - title: B.A., Philosophy,
       institution: Hamilton College
       year: 1981
       description:
-        - Description 1.
-        - Description 2.
 
 
 - title: Teaching
@@ -47,9 +38,30 @@
             - Film Analysis and Interpretation (Online, Summer 2020)
             - American Experiences and Constitutional Change (Online, Fall 2021)
 
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Margie Judd Photography
+      year: 1997 - 2016
+      description:
+        - title: Professional Photographer
+          contents:
+            - Specialized in digital restoration and portraiture
+    - title: Documentary Film Maker
+      year: 2010 - 2014
+      description:
+        - title: Film Maker
+          contents:
+            - Researched, scripted, and produced the funding trailer for the documentary Mary Quite Contrary exploring the cultural work of Mary MacLane's 1903 Autobiography
+            - Researched, scripted, and produced the documentary Like A Postcard exposing the disappearance of archival studio collections across America and Canada as a result of the digital revolution
+
+
 - title: Grants and Awards
   type: time_table
   contents:
+    - year: 2022
+      items:
+        - Bilinski Fellowship
     - year: 2021
       items: 
         - University of Nevada, Reno Core Humanities Distinguished Teaching Assistant
@@ -78,16 +90,16 @@
   contents:
     - title: “National Mythology and Changing Ideas of Masculinity”
       items: 
-        - Description 1.
-        - Description 2.
+        - Core Humanities American Experience and Constitutional Change
+        - University of Nevada, Reno, April 1 2019
     - title: “Engaging Robert Maynard’s Fault Lines in Composition II”
       items:
-        - Description 1.
-        - Description 2.
+        - Committee Meeting, University of Nevada, Reno
+        - April 27 2018
     - title: “New Shifts in Female Identity Mary MacLane”
       items:
-        - Description 1.
-        - Description 2.
+        - Silver Bow Historical Society, Butte, Montana,
+        - August 11, 2014
 
 - title: Publications
   type: list
