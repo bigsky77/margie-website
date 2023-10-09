@@ -6,7 +6,7 @@ subtitle: <a href='https://nevada-reno.academia.edu/MargieJudd'>University Of Ne
 
 profile:
   align: right
-  image: margie.jpeg
+  image: margie_1.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
