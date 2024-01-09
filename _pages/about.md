@@ -19,4 +19,4 @@ Margie Judd is an accomplished academic, film-maker, and photographer currently 
 
 Margie's research focuses on the intersection of literature, cinema, and societal views on poverty. Her dissertation, “The Mystery of Misery: Middle-Class Representations of Poverty, 1885-1915,” explores the evolution of middle-class masculinity in realism literature and silent film. 
 
-In 2022, Margie was awarded the prestigious Bilinski Fellowship for outstanding  research. 
+In 2022, Margie was awarded the prestigious Bilinski Fellowship for outstanding  research and exceptional contribution to humanities research. 
