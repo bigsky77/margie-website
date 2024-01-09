@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tina
-description: A classic car show featuring a 1942 Packard Clipper equipped with a life-size mannequin.
-img: assets/img/tina.png
-redirect: https://www.youtube.com/watch?v=8oGF8D5wX-A&list=PLdpmC2Q_p0zTnXGFJ0d88_vr6PvIhcTAY&index=3
+title: Like a Postcard 
+description: Like a Postcard explores the decline of studio photography.
+img: assets/img/like_a_postcard.png
+redirect: https://www.youtube.com/watch?v=XIb9E8hZQoY
 importance: 2
 category: work
 ---
