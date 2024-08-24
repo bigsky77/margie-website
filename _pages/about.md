@@ -21,4 +21,4 @@ Following a successful career as a professional studio photographer and artist, 
 
 Margie's research centers on the intersection of literature, cinema, and societal views on poverty. Her dissertation, “The Mystery of Misery: Middle-Class Representations of Poverty, 1885-1915,” explores the evolution of middle-class masculinity in realist literature and silent film.
 
-In 2022, Margie was awarded the prestigious Bilinski Fellowship for outstanding research and exceptional contributions to the humanities.
+In 2022, Margie was awarded her PhD alongside the prestigious Bilinski Fellowship for outstanding research and exceptional contributions to the humanities.
