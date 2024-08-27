@@ -17,6 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 Margie Judd is an accomplished academic, filmmaker, and photographer. Her academic work focuses on 19th-century American literature, silent film, and the American West.
 
-Margie's research centers on the intersection of literature, cinema, and societal views on poverty. Her dissertation, “The Mystery of Misery: Middle-Class Representations of Poverty, 1885-1915,” explores the evolution of middle-class masculinity in realist literature and silent film.
+Margie's research interests revolve around the intersection of literature, cinema, and societal views on poverty. Her dissertation, “The Mystery of Misery: Middle-Class Representations of Poverty, 1885-1915,” explores the evolution of middle-class masculinity in realist literature and silent film.
 
 In 2022, Margie was awarded her PhD at the University of Nevada, alongside with the prestigious Bilinski Fellowship for outstanding research and exceptional contributions to the humanities.
